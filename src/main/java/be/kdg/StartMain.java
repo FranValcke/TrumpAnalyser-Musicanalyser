@@ -37,10 +37,10 @@ public class StartMain {
             System.exit(1);
         }
         /*//Zaken aanmaken via een twitterapp (Bron: youtube video https://www.youtube.com/watch?v=1GixYso8Az4&t=577s)
-        final String consumerKey = "KZSQvBjJpVBWvb97QHeL2pbYV";
-        final String consumerSecret = "6Auksnx9RNxON8XXldeiDnrTSgJOoGYjSW7R56sdyjRnJ8AotA";
-        final String accessToken = "948994158479409159-zgeiikgTqDbwbZ7s7iv5otmjeyZJ20F";
-        final String accessTokenSecret = "VluOhqkwvFUEpp7rwPehDV7IqWOdzETJ4wtxki7GZugqi";
+        final String consumerKey = "";
+        final String consumerSecret = "";
+        final String accessToken = "";
+        final String accessTokenSecret = "";
 
         String[] filters = {"#NowPlaying", "#nowplaying"};
 */
